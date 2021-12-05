@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="TugasJavaFX12-05-2021.jnlp">
+  <information>
+    <title>TugasJavaFX12-05-2021</title>
+    <vendor>User</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="TugasJavaFX12-05-2021.jar" size="3326" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="tugasjavafx12.pkg05.pkg2021.TugasJavaFX12052021"  name="TugasJavaFX12-05-2021" />
+  <update check="always"/>
+</jnlp>
