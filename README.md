@@ -1,8 +1,8 @@
 # TugasJavaFX_PBO
 
-Nama : Muhammad Faiz
-NPM : 2017051007
-Kelas : A
+-Nama  : Muhammad Faiz
+-NPM   : 2017051007
+-Kelas : A
 
 Pelajari dan modifikasi file kode program javafx, dan buat desain seperti gambar di bawah ini:  Ketentuan tugas:      
 -Individu     
